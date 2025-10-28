@@ -5,8 +5,7 @@ export default function Footer() {
   return ( 
     <footer className="bg-primary text-gray-300 p-4 mt-auto"> 
       <div className="container mx-auto text-center"> 
-        <p>&copy; {currentYear} Aqila Muhammad. Dibuat dengan <span 
-className="text-accent">❤</span></p> 
+        <p>&copy; {currentYear} RPL JAYA ID</p> 
       </div> 
     </footer> 
 ); 
