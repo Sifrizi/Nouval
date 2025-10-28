@@ -12,7 +12,7 @@ export default function HomePage() {
         {/* Kolom Gambar */} 
         <div className="w-48 h-48 md:w-64 md:h-64 relative"> 
           <Image 
-            src="/profile.jpg" // Mengambil gambar dari folder public 
+            src="/profile.png" // Mengambil gambar dari folder public 
             alt="Foto Profil" 
             layout="fill" 
             objectFit="cover" 
