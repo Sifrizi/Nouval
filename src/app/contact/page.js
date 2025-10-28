@@ -6,13 +6,12 @@ export default function ContactPage() {
       <h1 className="text-4xl font-bold text-center mb-8">Hubungi Saya</h1> 
       <div className="max-w-md mx-auto text-center"> 
         <p className="mb-4"> 
-          Tertarik untuk berkolaborasi atau sekadar menyapa? Jangan ragu untuk  
-          menghubungi saya melalui salah satu cara di bawah ini. 
+          Untuk keperluan Bisnis dan relasi, Hubungi saya melalui Email Dan Whatsapp
         </p> 
         <p className="font-semibold">Email: <a href="lordindo96@gmail.com" 
-className="text-blue-500 hover:underline">lorindo96@gmail.com</a></p> 
-        <p className="font-semibold">LinkedIn: <a href="#" className="text-blue-500 
-hover:underline">Aqila Muhammad</a></p> 
+className="text-blue-500 hover:underline"></a>Naufaltora79@gmail.com</p> 
+        <p className="font-semibold">Whatsapp <a href="#" className="text-blue-500 
+hover:underline">08950000000</a></p> 
       </div> 
     </main> 
   ); 

@@ -9,7 +9,7 @@ return (
         {/* Kolom Gambar */} 
         <div className="w-48 h-48 md:w-56 md:h-56 relative flex-shrink-0"> 
           <Image 
-            src="/profile.jpg" 
+            src="/profile.png" 
             alt="Foto Profil" 
             layout="fill" 
             objectFit="cover" 
@@ -23,7 +23,7 @@ return (
             Halo! Ini Webite Nouval
           </p> 
           <p className="text-lg"> 
-            Saya Suka Coding
+            Saya Suka Coding dan Ngulik
 </p> 
 </div> 
 </div> 

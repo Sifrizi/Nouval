@@ -33,8 +33,7 @@ export default function HomePage() {
             Junior Web Developer | Telecaster number 1 fan 
           </p> 
           <p className="max-w-xl mt-4"> 
-            Saya adalah siswa asal SMKN2 BANDAR LAMPUNG jurusaN RPL. Minat saya dalam Rpl adalah untuk mengasah bakat saya dalam dunia Programming dan mengasah kemampuan berlogika saya dalam meneyelesaikan masalah di dalam sintaks.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacus erat, convallis pretium volutpat at, aliquam ac augue. Proin finibus, mi in euismod hendrerit, dui sem commodo orci, a laoreet est purus cursus sem. Donec et lorem tortor. Praesent ac ultricies risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum non congue leo. Donec sit amet venenatis felis. Vestibulum quis lectus sit amet sapien eleifend egestas non sit amet nulla. Aliquam enim augue, aliquam in feugiat vel, aliquet non urna. Curabitur efficitur pellentesque nulla sed placerat. Mauris a turpis sed velit accumsan viverra et sed nunc.
+            Saya adalah siswa asal SMKN2 BANDAR LAMPUNG jurusaN RPL. 
           </p> 
         </div> 
  
