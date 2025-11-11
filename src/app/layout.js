@@ -25,8 +25,7 @@ export default function RootLayout({ children }) {
   return ( 
     <html lang="en"> 
       {/* Langkah 3: Terapkan variabel font ke tag <body> */} 
-      <body className={`${montserrat.variable} ${poppins.variable} flex flex-col 
-min-h-screen`}> 
+      <body className={`${montserrat.variable} ${poppins.variable} flex flex-col min-h-screen`}> 
         <Navbar /> 
         {children} 
         <Footer /> 

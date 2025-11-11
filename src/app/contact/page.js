@@ -8,7 +8,7 @@ export default function ContactPage() {
         <p className="mb-4"> 
           Untuk keperluan Bisnis dan relasi, Hubungi saya melalui Email Dan Whatsapp
         </p> 
-        <p className="font-semibold">Email: <a href="lordindo96@gmail.com" 
+        <p className="font-semibold">Email: <a href="#" 
 className="text-blue-500 hover:underline"></a>Naufaltora79@gmail.com</p> 
         <p className="font-semibold">Whatsapp <a href="#" className="text-blue-500 
 hover:underline">08950000000</a></p> 

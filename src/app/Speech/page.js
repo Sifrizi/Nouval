@@ -6,10 +6,10 @@ return (
       <h1 className="text-4xl font-bold text-center mb-10">Speech Saya</h1> 
  
       <div className="flex flex-col md:flex-row items-center gap-10"> 
-        {/* Kolom Gambar */} 
-        <div className="w-48 h-48 md:w-56 md:h-56 relative flex-shrink-0"> 
+
+        <div className="w-48 h-48 md:w-56 md:h-56 relative flex-shrink-0  "> 
           <Image 
-            src="/profile.jpg" 
+            src="/profiles.png" 
             alt="Foto Profil" 
             layout="fill" 
             objectFit="cover" 

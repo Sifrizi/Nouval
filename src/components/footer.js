@@ -3,7 +3,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear(); 
  
   return ( 
-    <footer className="bg-primary text-gray-300 p-4 mt-auto"> 
+    <footer className="bg-primary text-gray-300 p-4 mt-auto shadow-md"> 
       <div className="container mx-auto text-center"> 
         <p>&copy; {currentYear} RPL JAYA ID</p> 
       </div> 

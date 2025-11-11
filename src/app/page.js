@@ -16,7 +16,7 @@ export default function HomePage() {
             alt="Foto Profil" 
             layout="fill" 
             objectFit="cover" 
-            className="rounded-full shadow-lg" 
+            className="shadow-lg" 
           /> 
         </div> 
  
