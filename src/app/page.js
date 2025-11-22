@@ -7,7 +7,8 @@ export default function HomePage() {
       {/* Secara default (mobile): flex-col (bertumpuk) 
         Mulai dari layar medium (md): flex-row (sejajar) 
       */} 
-      <div className="flex flex-col md:flex-row items-center justify-center gap-10"> 
+      <div>
+                <div className="flex flex-col md:flex-row items-center justify-center gap-10"> 
  
         {/* Kolom Gambar */} 
         <div className="w-48 h-48 md:w-64 md:h-64 relative"> 
@@ -34,10 +35,14 @@ export default function HomePage() {
           </p> 
           <p className="max-w-xl mt-4"> 
             Saya adalah siswa asal SMKN2 BANDAR LAMPUNG jurusaN RPL. 
-          </p> 
+          </p>         
         </div> 
- 
 </div> 
+<div className='mt-20'>
+        <p></p>
+</div>
+      </div>
+
 </main> 
 ); 
 }

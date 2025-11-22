@@ -7,20 +7,20 @@ return (
 <Link href="/" className="text-gray-700 text-2x1 font-bold">
 Web Portofolio
 </Link>
-<div className="flex gap-4">
-<Link href="/" className="text-gray-400 hover:text-gray-700">
+<div className="flex gap-1">
+<Link href="/" className="text-gray-400 hover:text-white hover:bg-gray-700 p-2 rounded-md">
 Home
 </Link>
-<Link href="/about" className="text-gray-400 hover:text-gray-700">
+<Link href="/about" className="text-gray-400 hover:text-white hover:bg-gray-700 p-2 rounded-md">
 About
 </Link>
-<Link href="/contact" className="text-gray-400 hover:text-gray-700">
+<Link href="/contact" className="text-gray-400 hover:text-white hover:bg-gray-700 p-2 rounded-md">
 Contact
 </Link>
-<Link href="/posts" className="text-gray-400 hover:text-gray-700">
+<Link href="/posts" className="text-gray-400 hover:text-white hover:bg-gray-700 p-2 rounded-md">
 Posts
 </Link>
-<Link href="/Speech" className="text-gray-400 hover:text-gray-700">
+<Link href="/Speech" className="text-gray-400 hover:text-white hover:bg-gray-700 p-2 rounded-md">
 Speech
 </Link>
 </div>
